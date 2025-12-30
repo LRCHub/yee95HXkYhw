@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "If Only With You",
+  "base_artist": "Rocco",
+  "createdAt": "2025-12-30T07:16:25.916524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If Only With You",
+      "artist": "Rocco",
+      "has_synced": true,
+      "path": "select/01_If_Only_With_You_Rocco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If Only With You (Paused)",
+      "artist": "Rocco",
+      "has_synced": true,
+      "path": "select/02_If_Only_With_You_(Paused)_Rocco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kimi Sae Ireba (If Only With You)",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/03_Kimi_Sae_Ireba_(If_Only_With_You)_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If Only With You",
+      "artist": "Rocco",
+      "has_synced": false,
+      "path": "select/pl_01_If_Only_With_You_Rocco.txt"
+    }
+  ]
+}
