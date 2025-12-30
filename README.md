@@ -1,0 +1,49 @@
+# Rocco – If Only With You
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.76] You kissed me then you had to leave
+[00:13.99] No, I can't stop thinking of you, of you
+[00:22.18] You left behind your favorite ring
+[00:25.44] I guess I have to give it to you soon, to you soon
+[00:50.44] 
+[00:33.27] Now I am waiting patiently like a puppet on a string
+[00:39.50] You do as you will and I won't mind
+[00:45.18] I see you in everything, want a house up on the hill
+[00:50.68] Is that too much to ask? Girl, is it right?
+[01:12.18] 
+[00:55.32] If only with you
+[01:00.57] If only with you
+[01:06.40] If only with you
+[01:11.86] If only with you, with you
+[01:24.86] 
+[01:19.15] We met up in a parking lot
+[01:21.95] Listening to her silent thoughts
+[01:24.58] With open arms you take me as a fool
+[01:30.17] You said you have somewhere to go
+[01:33.15] I wonder if she even knows
+[01:35.87] I like it when I have something to prove
+[01:55.87] 
+[01:41.27] Now I am waiting patiently like a puppet on a string
+[01:46.89] You do as you will, and I won't mind
+[01:52.83] I see you in everything, want a house up on the hill
+[01:58.33] Is that too much to ask? Girl, is it right?
+[02:19.83] 
+[02:03.09] If only with you
+[02:08.47] If only with you
+[02:14.22] If only with you
+[02:19.78] If only with you, with you
+[02:25.62] If only with you
+[02:33.62] 
+[02:28.56] You held my hand
+[02:31.00] The lights turned down low
+[02:33.97] I didn't say much, 'cause you had to go
+[02:39.43] I'm here where I stand, where the flowers grow
+[03:02.43] 
+[02:47.86] If only in you
+[02:53.77] If only with you
+[02:59.42] If only with you
+[03:04.99] If only with you, with you
+[03:10.84] If only with you
+```
